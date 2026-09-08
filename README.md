@@ -1,5 +1,3 @@
-# Frontend Development with Angular
-
 A practical frontend learning repository covering the foundations of web development before moving into Angular.
 
 ## Repository Structure
